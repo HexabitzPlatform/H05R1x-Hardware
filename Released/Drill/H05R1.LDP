@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\gweni\Downloads\PCB_Project_H05R1\H05R1.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=h05r1-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=h05r1-nonplated.txt|DrillLayers=gtl,gbl

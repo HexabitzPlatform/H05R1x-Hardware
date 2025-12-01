@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: H05R1.PcbDoc   12/1/2025  11:51:14 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : H05R1-Plated.TXT
+ASCII Non-Plated RoundHoles File : H05R1-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.711mm (28mil)                                           Round             32        PTH        214.80mm (8.46inch)
+T2      1.02mm (40mil)                                            Round             3         PTH        5.08mm (0.20inch)
+T3      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              37
+
+Total Processing Time (hh:mm:ss) : 00:00:00
